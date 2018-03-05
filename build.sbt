@@ -1,6 +1,9 @@
 /** Name of project */
 name := "ExtractHTMLLinks"
 
+/** Set logging level to debug */
+logLevel := Level.Debug
+
 /** Organization */
 organization := "com.github.sguzman"
 

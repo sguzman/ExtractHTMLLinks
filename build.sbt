@@ -30,6 +30,8 @@ resolvers ++= Seq(
 /** Source Dependencies */
 libraryDependencies ++= Seq(
   "org.scalaj" %% "scalaj-http" % "2.3.0",
+  "com.github.scopt" %% "scopt" % "3.7.0",
+  "net.ruippeixotog" %% "scala-scraper" % "2.1.0"
 )
 
 /** Make sure to fork on run */
